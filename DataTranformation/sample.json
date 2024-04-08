@@ -1,0 +1,55 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    75.4516454,
+                    27.2520587
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "state": "Rajasthan",
+                "code": "BDHL",
+                "name": "Badhal",
+                "zone": "NWR",
+                "address": "Kishangarh Renwal, Rajasthan"
+            }
+        },
+        {
+            "geometry": null,
+            "type": "Feature",
+            "properties": {
+                "state": null,
+                "code": "XX-BECE",
+                "name": "XX-BECE",
+                "zone": null,
+                "address": null
+            }
+        },
+        {
+            "geometry": null,
+            "type": "Feature",
+            "properties": {
+                "state": null,
+                "code": "XX-BSPY",
+                "name": "XX-BSPY",
+                "zone": null,
+                "address": null
+            }
+        },
+        {
+            "geometry": null,
+            "type": "Feature",
+            "properties": {
+                "state": null,
+                "code": "YY-BPLC",
+                "name": "YY-BPLC",
+                "zone": null,
+                "address": null
+            }
+        }
+    ]
+}
